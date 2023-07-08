@@ -1,0 +1,3 @@
+0 is rock
+1 is paper
+2 is scissors
